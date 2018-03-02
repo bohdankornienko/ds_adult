@@ -1,0 +1,3 @@
+[submodule "bvkpy"]
+	path = bvkpy
+	url = git@github.com:bohdankornienko/bvkpy.git
